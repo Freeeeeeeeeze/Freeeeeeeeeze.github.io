@@ -1,4 +1,4 @@
-<?php
+<?php/*
 $email_address = filter_var($_POST['email'], FILTER_VALIDATE_EMAIL);
 
 // Check for empty fields
@@ -32,4 +32,4 @@ if (empty($_POST['_gotcha'])) { // If hidden field was filled out (by spambots) 
 }
 echo "Gotcha, spambot!";
 return false;
-?>
+*/?>
