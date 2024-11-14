@@ -31,12 +31,12 @@ h3,
 h4,
 h5,
 h6 {
-    text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
+    text-transform: none; /*uppercase 모든걸 대문자로  */
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif; /*글꼴*/
+    font-weight: 700; /*글꼴 굵기*/
 }
 
-hr.star-light,
+/* hr.star-light,
 hr.star-primary {
     margin: 25px auto 30px;
     padding: 0;
@@ -45,9 +45,9 @@ hr.star-primary {
     border-top: solid 5px;
     text-align: center;
     overflow: visible;
-}
+} */
 
-hr.star-light:after,
+/* hr.star-light:after,
 hr.star-primary:after {
     content: "\f005";
     display: inline-block;
@@ -74,7 +74,7 @@ hr.star-primary {
 hr.star-primary:after {
     color: #{{ site.color.secondary }};
     background-color: #fff;
-}
+} */
 
 .img-centered {
     margin: 0 auto;
@@ -87,7 +87,7 @@ header {
 }
 
 header .container {
-    padding-top: 100px;
+    padding-top: 200px;
     padding-bottom: 50px;
 }
 
@@ -98,7 +98,7 @@ header img {
 
 header .intro-text .name {
     display: block;
-    text-transform: uppercase;
+    text-transform: none;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 2em;
     font-weight: 700;
