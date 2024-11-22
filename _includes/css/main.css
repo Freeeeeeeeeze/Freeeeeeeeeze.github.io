@@ -6,6 +6,9 @@
 
 body {
     overflow-x: hidden;
+    background-color: #deb887; /*추가 부분*/
+    background-image: radial-gradient(circel,#8b5a2b 2px,transparent 2px);
+    background-size: 20px 20px;
 }
 
 p {
@@ -80,8 +83,8 @@ hr.star-primary:after {
     margin: 0 auto;
 }
 
-header {
-    text-align: center;
+header {/*메인 부분 설정*/
+    text-align: center; 
     color: #18157e;
     background: #{{ site.color.primary }};
 }
@@ -149,7 +152,7 @@ header .intro-text .skills {
 }
 
 .navbar {
-    text-transform: uppercase;
+    text-transform: none;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
 }
