@@ -84,28 +84,49 @@ hr.star-primary:after {
 }
 
 header {/*메인 부분 설정*/
-    text-align: center; 
+    /* text-align: center; 
     color: #F88E5B;
-    background: #{{ site.color.primary }};
+    background: #{{ site.color.primary }}; */
+    /*새로한 부분*/
+    background: url('img/githubpro.png') no-repeat center center fixed;
+    background-size: cover;
+    color: #F88E5B;
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 header .container {
     padding-top: 200px;
     padding-bottom: 50px;
+    /*추가 부분*/
+    text-align: center;
 }
 
 header img {
     display: block;
     margin: 0 auto 20px;
+    /*추가 부분*/
+    width: 150px;
+    border-radius: 50%;
 }
 
-header .intro-text .name {
+header .intro-text .nmae{
+    display: block;
+    text-transform: none;
+    font-family: Montserrat,"Helvetica Neue", Helvetica,Arial,sans-serif;
+    font-size: 2em;
+    font-weight:600;
+}
+/*기존 부분 header .intro-text .name {
     display: block;
     text-transform: none;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 2em;
     font-weight: 700;
-}
+} */
 
 header .intro-text .skills {
     font-size: 1.25em;
