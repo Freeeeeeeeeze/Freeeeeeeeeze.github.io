@@ -85,7 +85,7 @@ hr.star-primary:after {
 
 header {/*메인 부분 설정*/
     text-align: center; 
-    color: #18157e;
+    color: #F88E5B;
     background: #{{ site.color.primary }};
 }
 
