@@ -5,7 +5,7 @@ url: "https://Freeeeeeeeeze.github.io"
 baseurl: ""
 description: "포트폴리오 올리기 용도 사이트 입니다. "
 keywords: "각종 술 데이터 수집 , 취미생활 , IT 정보 , 코딩 , 잡다한것들"
-skills: "Data_Analysis , back_end , PostgresQL , Python , Pytorch  "
+skills:  # "Data_Analysis , back_end , PostgresQL , Python , Pytorch  " 
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -13,7 +13,6 @@ google_verify:
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
-
 # Contact form:
 # - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread

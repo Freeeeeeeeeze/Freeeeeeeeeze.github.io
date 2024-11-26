@@ -1,11 +1,11 @@
 ---
 layout: default
-modal-id: 1
+modal-id: web crawling & MySQL 을 활용한 데이터 수집 및 django 웹 페이지 제작
 date: 2024-07-18
 img: cocktail_1.jpg
 alt: image-alt
-project-date: April 2024
-client: Python
-category: ee
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: April 2023/07 - 2023/08
+client: Python,MySQL,Django
+# category: ee
+description: 테스트중 
 ---
