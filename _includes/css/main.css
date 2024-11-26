@@ -205,7 +205,7 @@ section h2 {
 }
 
 section.success {
-    color: #deb887/*#fff;*/;
+    color: #fff;
     background: #{{ site.color.primary }};
 }
 
