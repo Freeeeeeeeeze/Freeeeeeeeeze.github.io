@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: web crawling & MySQL 을 활용한 데이터 수집 및 django 웹 페이지 제작
+modal-id: 1
 date: 2024-07-18
 img: cocktail_1.jpg
 alt: image-alt
