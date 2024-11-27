@@ -8,40 +8,5 @@ project-date: 2023/07 - 2023/08
 client: Python,MySQL,Django
 title: Test name # 이야 이게 타이틀 명이네 
 # category: ee
-description: 테스트중 asd
-asd
-sad
-asd
-sad
-sad
-sad
-asd
-asd
-sa
-dasd
-asd
-as
-d
-as
-d
-as
-d
-as
-d
-as
-d
-as
-d
-as
-d
-sa
-d
-as
-d
-as
-d
-as
-das
-dasd
-
+description: 테스트중
 ---
