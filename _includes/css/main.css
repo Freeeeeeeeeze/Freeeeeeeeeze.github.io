@@ -236,7 +236,7 @@ section.success {
     width: 100%;
     height: 100%;
     opacity: 0;
-    background: #deb887/*rgba({{ site.color.primary-rgb }},.9);*/;
+    background: #deb887/*rgba({{ site.color.primary-rgb }},.9); 아마도 첫 페이지 포폴 아이콘 부분 마우스 커서 가져갔을떄 투명해지는 색상*/; 
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
@@ -480,7 +480,7 @@ footer .footer-below {
     width: 1px;
     height: 75px;
     margin-left: 35px;
-    background-color: #{{ site.color.secondary }};
+    background-color: #F88E5B/*{{ site.color.secondary }}*/;
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
