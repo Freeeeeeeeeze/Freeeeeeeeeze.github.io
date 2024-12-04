@@ -9,12 +9,23 @@ client: Python, MySQL, Django, Web Crawling
 title: "Web Crawling & MySQL을 활용한 데이터 수집과 수집된 데이터 기반 주류 & 칵테일 추천" #따옴표 필수 
 #category: ee
 description: |
-  <h3>프로젝트 개요</h3>
-  <p>이 프로젝트는 웹 크롤링을 통해 주류 데이터를 수집하고 이를 바탕으로 자연어 처리 시도해 보고 API를 활용하여 주류 추천 및 칵테일 추천&제조를 구축해본 프로젝트입니다.</p>
-
-  <div style="height: 100vh; display: flex; justify-content: center; align-items: center;">
-  <img src="img/portfolio/alc_page_2_1.png" alt="Portfolio Image" style="max-width: 100%; height: auto;">
+  <div align="center" style="height: 100vh;">
+  <img src="img/portfolio/alc_page_2_1.png" alt="Portfolio Image">
   </div>
-
-
+<ul>
+<1i>최근 각종 매체에서 위스키 오픈 런 과 수입 주류량에 대한 내용을 심심치 않게 볼 수 있습니다.</li>
+<1i>즉 다양한 주류에 대한 소비자들의 관심사가 높아졌다고 볼 수 있습니다. </li>
+<1i>이전에는 위스키 하면 양주 라 부르며 고습 술 이라는 이미조 인해 접근이 어려운 편이였으나</li>
+<1i>소비 문화의 변화로 인해 이제는 젊은 세대들도 즐기는 술이 되었습니다.</li>
+<1i>하지만 위스키는 종류도 많고 여러 특징이 있기 떄문에 처음 위스키에 입문할떄</li>
+<1i>자신에게 맞는 위스키를 찾기 위해서는 바 에 방문하여 직접 하나씩 마셔보거나</li>
+<1i>자신이 직접 구매하여서 마셔보는 방법으로 자신에게 맞는 주류를 찾아야 했습니다.</li>
+<1i>이러한 과정에서 본인에게 맞지 않는 주류에 대한 불필요한 지출이 발생할 수 도 있고 시간적으로도 손해를 보는 상황이 발생합니다.</li>
+<1i>이러한 상황에서 소비자가 좀 더 편하게 자신이 원하는 특징을 사용하여서 사용자 자신에게 맞는 위스키를 효율적으로 찾게 하기 위해</li>
+<1i>해당 프로젝트를 기획하였습니다.</li> 
+</ul>
+|
+  <div align="center" style="height: 100vh;">
+  <img src="img/portfolio/alc_page_3.png" alt="Portfolio Image">
+  </div>
 ---
