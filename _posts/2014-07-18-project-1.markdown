@@ -14,9 +14,9 @@ description: |
 
   <h3>기술 스택</h3>
   <ul>
-      <li>Python</li>
-      <li>Django</li>
-      <li>MySQL</li>
-      <li>Web Crawling</li>
+    <li>Python</li>
+    <li>Django</li>
+    <li>MySQL</li>
+    <li>Web Crawling</li>
   </ul>
 ---
