@@ -14,8 +14,10 @@ description: |
 
   <h3>기술 스택</h3>
   <ul>
-    <li>Python Django MySQL Web_Crawling</li>
+    <li>Python,Django,MySQL,Web_Crawling</li>
   </ul>
-  <img src="img/portfolio/alc_page_2.png"/>
-  <img src="img/portfolio/alc_page_2_1.png"/>
+  <div align="center" style="height: 100vh;">
+  <img src="img/portfolio/alc_page_2_1.png" alt="Portfolio Image">
+  </div>
+
 ---
