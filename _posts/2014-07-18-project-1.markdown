@@ -17,4 +17,5 @@ description: |
     <li>Python Django MySQL Web_Crawling</li>
   </ul>
   <img src="img/portfolio/alc_page_2.png"/>
+  <img src="img/portfolio/alc_page_2_1.png"/>
 ---
