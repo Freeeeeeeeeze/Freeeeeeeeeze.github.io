@@ -446,12 +446,12 @@ footer .footer-below {
     background-clip: border-box;
     -webkit-box-shadow: none;
     box-shadow: none;
-    background-color: #ffceb7
+    background-color: #ffceb7 /*포폴 뒷 배경 색상*/
 }
 
 .portfolio-modal .modal-content h2 {
     margin: 0;
-    font-size: 3em;
+    font-size: 2em; /*타이틀 크기*/
 }
 
 .portfolio-modal .modal-content img {
