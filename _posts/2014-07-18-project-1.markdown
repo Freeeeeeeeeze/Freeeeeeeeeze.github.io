@@ -14,10 +14,10 @@ description: |
 
 <h3>기술 스택</h3>
 <ul>
-    <l1>Python</l1>
-    <l1>Django</l1>
-    <l1>MySQL</l1>
-    <l1>Web_Crawling</l1>
+    <li>Python</li>
+    <li>Django</li>
+    <li>MySQL</li>
+    <li>Web_Crawling</li>
 </ul>
 
 
