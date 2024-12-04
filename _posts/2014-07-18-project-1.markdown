@@ -9,10 +9,10 @@ client: Python, MySQL, Django, Web Crawling
 title: "Web Crawling & MySQL을 활용한 데이터 수집과 수집된 데이터 기반 주류 & 칵테일 추천" #따옴표 필수 
 #category: ee
 description: |
-  <div align="center" style="height: 100vh;">
+  <div align="center">
   <img src="img/portfolio/alc_page_2_1.png" alt="Portfolio Image">
   </div>
-  <ul>
+  <ul style="margin: 0;">
     <li>최근 각종 매체에서 위스키 오픈 런 과 수입 주류량에 대한 내용을 심심치 않게 볼 수 있습니다.</li>
     <li>즉 다양한 주류에 대한 소비자들의 관심사가 높아졌다고 볼 수 있습니다. </li>
     <li>이전에는 위스키 하면 양주 라 부르며 고습 술 이라는 이미조 인해 접근이 어려운 편이였으나</li>
@@ -24,7 +24,7 @@ description: |
     <li>이러한 상황에서 소비자가 좀 더 편하게 자신이 원하는 특징을 사용하여서 사용자 자신에게 맞는 위스키를 효율적으로 찾게 하기 위해</li>
     <li>해당 프로젝트를 기획하였습니다.</li> 
   </ul>
-  <div text-align: center style="height: 100vh;">
+  <div text-align: center">
   <img src="img/portfolio/alc_page_3.png" alt="Portfolio Image">
   </div>
 ---
