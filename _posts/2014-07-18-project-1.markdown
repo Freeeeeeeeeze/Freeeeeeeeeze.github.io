@@ -2,11 +2,11 @@
 layout: default
 modal-id: 1
 date: 2024-07-18
-img: cocktail_1.jpg
+img: alc_007.png
 alt: image-alt
 project-date: 2023/07 - 2023/08
 client: Python,MySQL,Django
-title: Test name # 이야 이게 타이틀 명이네 
+title: Web Crawilg&MySQL 을 활용한 데아터 수집과 수집된 데이터 기반 주류&칵테일 추천 # 이야 이게 타이틀 명이네 
 # category: ee
 description: 테스트<br>askldjaskdjaslkdj<br>asdjsaldkjaslkdj<br>asdlkjasdlkjsad<br>aslkdjaslkdjaskljd<br>asdasdsad
 ---
