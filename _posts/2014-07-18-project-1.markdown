@@ -4,9 +4,19 @@ modal-id: 1
 date: 2024-07-18
 img: alc_007.png
 alt: image-alt
-# project-date: 2023/07 - 2023/08
+project-date: 2023/07 - 2023/08
 client: Python, MySQL, Django, Web Crawling
-title: Web Crawling & My #이야 이게 타이틀 명이네
+title: "Web Crawling & MySQL을 활용한 데이터 수집과 수집된 데이터 기반 주류 & 칵테일 추천" #이야 이게 타이틀 명이네
 #category: ee
-description: asdlkjasd
+description: |
+  <h3>프로젝트 개요</h3>
+  <p>이 프로젝트는 웹 크롤링을 통해 주류 데이터를 수집하고 이를 바탕으로 자연어 처리 시도해 보고 API를 활용하여 주류 추천 및 칵테일 추천&제조를 구축해본 프로젝트입니다.</p>
 
+  <h3>기술 스택</h3>
+  <ul>
+      <li>Python</li>
+      <li>Django</li>
+      <li>MySQL</li>
+      <li>Web Crawling</li>
+  </ul>
+---
