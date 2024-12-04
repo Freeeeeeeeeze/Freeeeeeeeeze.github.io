@@ -16,12 +16,8 @@ description: |
 #   <ul>
 #     <li>Python,Django,MySQL Web_Crawling</li>
 #   </ul>
-  <div align="center" style="height: 100vh;">
-  <img src="img/portfolio/alc_page_2_1.png" alt="Portfolio Image">
-  </div>
-
-  <div style="height: 100vh; display: flex; justify-content: center; align-items: center;">
-  <img src="img/portfolio/alc_page_2_1.png" alt="Portfolio Image" style="max-width: 100%; height: auto;">
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="img/portfolio/alc_page_2_1.png" alt="Portfolio Image" style="max-width: 100%; height: auto;">
   </div>
 
 
