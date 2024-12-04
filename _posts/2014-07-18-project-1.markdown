@@ -12,10 +12,6 @@ description: |
   <h3>프로젝트 개요</h3>
   <p>이 프로젝트는 웹 크롤링을 통해 주류 데이터를 수집하고 이를 바탕으로 자연어 처리 시도해 보고 API를 활용하여 주류 추천 및 칵테일 추천&제조를 구축해본 프로젝트입니다.</p>
 
-  <div align="center" style="height: 100vh;">
-  <img src="img/portfolio/alc_page_2_1.png" alt="Portfolio Image">
-  </div>
-
   <div style="height: 100vh; display: flex; justify-content: center; align-items: center;">
   <img src="img/portfolio/alc_page_2_1.png" alt="Portfolio Image" style="max-width: 100%; height: auto;">
   </div>
