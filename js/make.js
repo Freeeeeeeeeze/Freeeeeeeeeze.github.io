@@ -16,3 +16,16 @@
 //         detailBox.textContent = detail;
 //     });
 // });
+// Progress Bar 업데이트 함수
+function updateProgressBar() {
+    // 전체 페이지 높이에서 현재 스크롤된 양을 백분율로 계산
+    const scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
+    const scrollHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+    const scrollPercentage = (scrollTop / scrollHeight) * 100;
+
+    // 진행 바 너비 업데이트
+    document.getElementById('progressBar').style.width = scrollPercentage + '%';
+}
+
+// 스크롤 이벤트 리스너 등록
+window.addEventListener('scroll', updateProgressBar);
