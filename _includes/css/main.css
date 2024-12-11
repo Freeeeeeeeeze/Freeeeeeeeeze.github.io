@@ -512,6 +512,33 @@ ul{
     padding: 0;
     margin: 0;
 }
+/*c*/
+
+.portfolio-modal .modal-content {
+    padding: 100px 50px; /* 좌우 50px 패딩 추가 */
+}
+
+
+.portfolio-modal .modal-content {
+    overflow-x: auto; /* 좌우 스크롤 활성화 */
+    white-space: nowrap; /* 콘텐츠가 줄바꿈 없이 한 줄로 표시되도록 */
+}
+
+
+.portfolio-modal .modal-content::-webkit-scrollbar {
+    height: 10px; /* 스크롤바 높이 */
+    background-color: #bd5454; /* 스크롤바 배경색 */
+}
+
+.portfolio-modal .modal-content::-webkit-scrollbar-thumb {
+    background-color: #999; /* 스크롤바 드래그 영역 */
+    border-radius: 5px; /* 둥근 모서리 */
+}
+
+.portfolio-modal .modal-content::-webkit-scrollbar-thumb:hover {
+    background-color: #666; /* 호버 시 색상 */
+}
+
 
 /* img {
     background-color : #ffceb7;
