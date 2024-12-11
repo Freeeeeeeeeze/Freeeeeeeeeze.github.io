@@ -514,9 +514,13 @@ ul{
 }
 /*c*/
 
-.portfolio-modal .modal-content {
-    padding: 100px 50px; /* 좌우 50px 패딩 추가 */
+@media (max-width: 768px) {
+    .portfolio-modal .modal-content {
+        padding: 50px 20px; /* 작은 화면에서 패딩 조정 */
+        overflow-x: auto; /* 좌우 스크롤 유지 */
+    }
 }
+
 
 
 .portfolio-modal .modal-content {
